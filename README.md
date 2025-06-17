@@ -28,6 +28,17 @@ Latest Dataset Update: May 25, 2025 (https://data.humdata.org/dataset/sind-educa
 3. Used PostgreSQL queries to filter, join, and summarize incident data for specific countries and months.
 4. Applied NLP techniques (sentiment analysis) on event descriptions to classify emotional tone and extracted keywords for further visualization in Python.
 
+# Project Files
+1. Thy Phan_Project.jpynb - Python notebook for data manipulation, exploratory data analysis and NLP
+2. Thy Phan_Project.R - R script for clustering, analysis and visualization
+3. Thy Phan_Project.sql - SQL queries incident summary and data extraction
+4. Thy Phan_Project Report_AIT-580-04.pdf - Full project report with findings and visualizations
+5. Thy Phan_Final Presentation.pptx - Powerpoint about the project
+
+# Data Layers
+1. 2020-2024-education-in-danger-incident-data.xlsx - original dataset
+2. cleaned_education_in_danger.csv - Cleaned dataset used in Python and R analyses  
+3. cleaned_education_in_danger_SQL.csv - data cleaned for using in PostgreSQL
 
 # Results
 1. The number of students attacked has increased significantly over the years.
@@ -43,6 +54,9 @@ Latest Dataset Update: May 25, 2025 (https://data.humdata.org/dataset/sind-educa
 2. Additional geographic analysis is required to understand the clustering patterns and why certain locations appear together.
 4. Further investigation is required to understand the underlying factors contributing to the high numbers of student casualties reported in Myanmar, Afghanistan, and Nigeria.
 5. Qualitative analysis should be conducted to explore what occurred during peak incident months like January, May, and June.
+
+
+
 
 
 
