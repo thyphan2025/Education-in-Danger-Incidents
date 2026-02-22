@@ -19,3 +19,21 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+
+--------------------------------------------------------------------------------
+DATASET ATTRIBUTION & LICENSE (CC BY-SA 4.0)
+--------------------------------------------------------------------------------
+The original and cleaned datasets included in this repository are sourced from 
+Insecurity Insight via the Humanitarian Data Exchange (HDX).
+
+Source: https://data.humdata.org
+License: Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)
+
+In accordance with the "Share-Alike" (SA) provision:
+1. Attribution: You must give appropriate credit to Insecurity Insight.
+2. Share-Alike: All cleaned, transformed, or processed versions of this data 
+   contained in this repository (including CSV, XLSX, SQL tables, or R/Python 
+   dataframes) are also released under the CC BY-SA 4.0 license.
+Use code with caution.
+
+
